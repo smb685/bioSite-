@@ -1,2 +1,3 @@
-# bioSite-
-This is a bioSite for my class
+# CSD 340 Web Development with HTML and CSS
+* Sue Sampson
+* Sylvester Brandon
